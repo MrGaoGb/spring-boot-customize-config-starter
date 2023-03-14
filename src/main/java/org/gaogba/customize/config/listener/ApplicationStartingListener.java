@@ -5,8 +5,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.boot.context.event.ApplicationStartingEvent;
 import org.springframework.context.ApplicationListener;
 
-import java.util.concurrent.TimeUnit;
-
 /**
  * @author Mr.Gao
  * @date 2023/2/16 17:38
